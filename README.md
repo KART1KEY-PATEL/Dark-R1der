@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartikey Patel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-r1der&label=Profile%20views&color=0e75b6&style=flat" alt="dark-r1der" /> </p>
-<img align="right" alt = "Android" width = "300" src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif">
+<img align="right" alt = "Android" width = "350" src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
